@@ -4,6 +4,14 @@ layer 是一款历来都备受青睐的 Web 弹出层组件，具备全方位的
 
 [文档与演示](http://layer.layui.com/) 
 
+## 国际化
+
+添加 locale 配置
+
+```javascript
+layer.alert("", {locale: "en"})
+```
+
 ## 愿景
 成为网页弹出层的首先交互方案
 
